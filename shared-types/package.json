@@ -1,0 +1,9 @@
+{
+  "name": "@client-mf/shared-types",
+  "version": "1.0.0",
+  "main": "dist/store.js",
+  "types": "dist/store.d.ts",
+  "devDependencies": {
+    "typescript": "^6.0.3"
+  }
+}
